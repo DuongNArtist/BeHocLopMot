@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="study_knowledge_question_000">
+        <item>Trong một bài hát thiếu nhi, người này được ví như “Cô Tiên”.</item>
+        <item>Mẹ</item>
+        <item>Bà goại</item>
+        <item>Cô giáo</item>
+        <item>Cô bảo mẫu</item>
+        <item>Cô giáo</item>
+    </string-array>
+    <string-array name="study_knowledge_question_001">
+        <item>Số liền trước của 17 là: </item>
+        <item>15</item>
+        <item>18</item>
+        <item>16</item>
+        <item>19</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="study_knowledge_question_002">
+        <item>Điền âm thích hợp vào dấu ba chấm của từ: Nhà  ...a</item>
+        <item>g</item>
+        <item>gh</item>
+        <item>r</item>
+        <item>d</item>
+        <item>g</item>
+    </string-array>
+    <string-array name="study_knowledge_question_003">
+        <item>Bánh tét, bánh chưng được làm từ:</item>
+        <item>Gạo tẻ</item>
+        <item>Gạo nếp</item>
+        <item>Bột bắp</item>
+        <item>Bột mỳ</item>
+        <item>Gạo nếp</item>
+    </string-array>
+    <string-array name="study_knowledge_question_004">
+        <item>Chọn số thích hợp điền vào chấm hỏi: 2 +? = 2 - ?</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_knowledge_question_005">
+        <item>Từ nào viết sai chính tả?</item>
+        <item>Có</item>
+        <item>Cờ</item>
+        <item>Cô</item>
+        <item>Cẻ</item>
+        <item>Cẻ</item>
+    </string-array>
+    <string-array name="study_knowledge_question_006">
+        <item>Con ong thường hút gì trên bông hoa?</item>
+        <item>Nước</item>
+        <item>Sương</item>
+        <item>Mật</item>
+        <item>Khoa</item>
+        <item>Mật</item>
+    </string-array>
+    <string-array name="study_knowledge_question_007">
+        <item>Hà có 7 cây kẹo, Hoa ít hơn Hà 2 cây. Vậy số kẹo của Hoa là:</item>
+        <item>9</item>
+        <item>5</item>
+        <item>12</item>
+        <item>14</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_knowledge_question_008">
+        <item>Từ nào viết sai chính tả?</item>
+        <item>Vẽ cờ</item>
+        <item>Con hổ</item>
+        <item>Con thõ</item>
+        <item>Tổ cò</item>
+        <item>Con thõ</item>
+    </string-array>
+    <string-array name="study_knowledge_question_009">
+        <item>Điền từ thích hợp vào dấu ba chấm ở câu sau:“Con cua … cẳng hai càng”.</item>
+        <item>Năm</item>
+        <item>Sáu</item>
+        <item>Bảy</item>
+        <item>Tám</item>
+        <item>Tám</item>
+    </string-array>
+    <string-array name="study_knowledge_question_010">
+        <item>Xe dùng để cán đường khi làm đường là:</item>
+        <item>Xe ô tô</item>
+        <item>Xe buýt</item>
+        <item>Xe lu</item>
+        <item>Xe tải</item>
+        <item>Xe lu</item>
+    </string-array>
+    <string-array name="study_knowledge_question_011">
+        <item>Các vần “an”, “ăn”, “ân” không thể ghép với âm nào?</item>
+        <item>C</item>
+        <item>B</item>
+        <item>K</item>
+        <item>L</item>
+        <item>K</item>
+    </string-array>
+    <string-array name="study_knowledge_question_012">
+        <item>Từ nào sau đây viết sai?</item>
+        <item>Cá</item>
+        <item>Cơm</item>
+        <item>Kà</item>
+        <item>Kem</item>
+        <item>Kà</item>
+    </string-array>
+    <string-array name="study_knowledge_question_013">
+        <item>Con bò còn nhỏ được gọi là gì?</item>
+        <item>Bê</item>
+        <item>Dê</item>
+        <item>Cừu</item>
+        <item>Bò sữa</item>
+        <item>Bê</item>
+    </string-array>
+    <string-array name="study_knowledge_question_014">
+        <item>Số tiếp theo của dãy số bên dưới là số nào?:1, 3, 5, 7, ...</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="study_knowledge_question_015">
+        <item>Các vần “an”, “ăn”, “ân” có thể ghép với âm nào? </item>
+        <item>C</item>
+        <item>B</item>
+        <item>L</item>
+        <item>Tất cả đều được</item>
+        <item>Tất cả đều được</item>
+    </string-array>
+    <string-array name="study_knowledge_question_016">
+        <item>Thánh Gióng nhổ cây gì bên đường để đánh giặc? </item>
+        <item>Chuối</item>
+        <item>Cau</item>
+        <item>Tre</item>
+        <item>Trúc</item>
+        <item>Tre</item>
+    </string-array>
+    <string-array name="study_knowledge_question_017">
+        <item>Hoa có 9 nhãn vở. Nụ cho Hoa thêm 5 nhãn vở nữa. Hỏi Hoa có tất cả bao nhiêu nhãn vở?</item>
+        <item>14</item>
+        <item>13</item>
+        <item>12</item>
+        <item>11</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="study_knowledge_question_018">
+        <item>Từ nào chỉ một hoạt động?</item>
+        <item>Mây</item>
+        <item>Nước</item>
+        <item>Cầu</item>
+        <item>Bơi</item>
+        <item>Bơi</item>
+    </string-array>
+    <string-array name="study_knowledge_question_019">
+        <item>Cái quạt của Thằng Bờm trong bài hát Thằng Bờm được làm bằng gì?</item>
+        <item>Giấy</item>
+        <item>Lá chuối</item>
+        <item>Mo cau</item>
+        <item>Tre</item>
+        <item>Mo cau</item>
+    </string-array>
+    <string-array name="study_knowledge_question_020">
+        <item>Con vật nào đẻ trứng?</item>
+        <item>Thỏ</item>
+        <item>Mèo</item>
+        <item>Chó</item>
+        <item>Chim cút</item>
+        <item>Chim cút</item>
+    </string-array>
+    <string-array name="study_knowledge_question_021">
+        <item>Số lẻ lớn nhất trong các số sau là số nào?</item>
+        <item>10</item>
+        <item>7</item>
+        <item>9</item>
+        <item>5</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="study_knowledge_question_022">
+        <item>Âm “g” không ghép được với vần nào sau đây?</item>
+        <item>o</item>
+        <item>a</item>
+        <item>ô</item>
+        <item>e</item>
+        <item>e</item>
+    </string-array>
+    <string-array name="study_knowledge_question_023">
+        <item>Loài chim nào không biết bay?</item>
+        <item>Chim sẻ</item>
+        <item>Đà điểu</item>
+        <item>Chích bông</item>
+        <item>Chim ri</item>
+        <item>Đà điểu</item>
+    </string-array>
+    <string-array name="study_knowledge_question_024">
+        <item>Cho các số 3, 4, 6, 7, 8. Trong đó số 4 là: </item>
+        <item>Số bé nhất</item>
+        <item>Số lẻ lớn nhất</item>
+        <item>Số chẵn bé nhất</item>
+        <item>Số liền trước số 6</item>
+        <item>Số chẵn bé nhất</item>
+    </string-array>
+    <string-array name="study_knowledge_question_025">
+        <item>Từ nào viết đúng?</item>
+        <item>Cây kim</item>
+        <item>Kư xá</item>
+        <item>Kú mèo</item>
+        <item>Kéo ko</item>
+        <item>Cây kim</item>
+    </string-array>
+    <string-array name="study_knowledge_question_026">
+        <item>Gà thường gáy vào lúc nào trong ngày?</item>
+        <item>Sáng sớm</item>
+        <item>Trưa</item>
+        <item>Chiều</item>
+        <item>Tối</item>
+        <item>Sáng sớm</item>
+    </string-array>
+    <string-array name="study_knowledge_question_027">
+        <item>Số chẵn lớn nhất trong các số sau là số nào?</item>
+        <item>9</item>
+        <item>2</item>
+        <item>7</item>
+        <item>6</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="study_knowledge_question_028">
+        <item>Từ nào viết đúng?</item>
+        <item>Gỗ</item>
+        <item>Ge</item>
+        <item>Gế</item>
+        <item>Gổ</item>
+        <item>Gỗ</item>
+    </string-array>
+    <string-array name="study_knowledge_question_029">
+        <item>Hoa năm nay 6 tuổi. Vậy năm ngoái tuổi của Hoa là: </item>
+        <item>4</item>
+        <item>5</item>
+        <item>7</item>
+        <item>8</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_knowledge_question_030">
+        <item>Con vật nào sống dưới nước?</item>
+        <item>Trâu</item>
+        <item>Chuột</item>
+        <item>Thỏ</item>
+        <item>Mực</item>
+        <item>Mực</item>
+    </string-array>
+    <string-array name="study_knowledge_question_031">
+        <item>Chọn số thích hợp điền vào dấu “?” trong bài toán:3 - ? = 1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_knowledge_question_032">
+        <item>Từ nào viết sai chính tả?</item>
+        <item>Bếp lửa</item>
+        <item>Xinh đẹp</item>
+        <item>Lễ phép</item>
+        <item>Sinh đẹp</item>
+        <item>Sinh đẹp</item>
+    </string-array>
+    <string-array name="study_knowledge_question_033">
+        <item>Hoa gì được nói là “Gần bùn mà chẳng hôi tanh mùi bùn”?</item>
+        <item>Hoa lan</item>
+        <item>Hoa hồng</item>
+        <item>Hoa sen</item>
+        <item>Hoa đào</item>
+        <item>Hoa sen</item>
+    </string-array>
+    <string-array name="study_knowledge_question_034">
+        <item>Điền dấu thích hợp vào vị trí dấu “?” trong bài toán: 7 - 0 ? 7</item>
+        <item>&gt;</item>
+        <item>&lt;</item>
+        <item>+</item>
+        <item>=</item>
+        <item>=</item>
+    </string-array>
+    <string-array name="study_knowledge_question_035">
+        <item>Trái nghĩa với từ “Vui”  là: </item>
+        <item>Giận</item>
+        <item>Mừng</item>
+        <item>Lười biếng</item>
+        <item>Buồn</item>
+        <item>Buồn</item>
+    </string-array>
+    <string-array name="study_knowledge_question_036">
+        <item>Đâu là trang phục dành cho bé trai?</item>
+        <item>Đầm</item>
+        <item>Váy</item>
+        <item>Áo sơ mi</item>
+        <item>Áo dài</item>
+        <item>Áo sơ mi</item>
+    </string-array>
+    <string-array name="study_knowledge_question_037">
+        <item>Số nhỏ nhất có hai chữ số giống nhau là:</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>22</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="study_knowledge_question_038">
+        <item>Cách viết nào sai?</item>
+        <item>Ai</item>
+        <item>Ay</item>
+        <item>Ây</item>
+        <item>Âi</item>
+        <item>Âi</item>
+    </string-array>
+    <string-array name="study_knowledge_question_039">
+        <item>Vật nào có hình dạng khác với 3 vật kia?</item>
+        <item>Bảng viết</item>
+        <item>Cánh cửa</item>
+        <item>Bánh xe</item>
+        <item>Quyển sách</item>
+        <item>Bánh xe</item>
+    </string-array>
+    <string-array name="study_knowledge_question_040">
+        <item>Quả nào có vị chua?</item>
+        <item>Chuối</item>
+        <item>Đu đủ</item>
+        <item>Mít</item>
+        <item>Chanh</item>
+        <item>Chanh</item>
+    </string-array>
+    <string-array name="study_knowledge_question_041">
+        <item>Số lẻ lớn nhất trong các số 57, 61, 70, 69 là: </item>
+        <item>57</item>
+        <item>61</item>
+        <item>70</item>
+        <item>69</item>
+        <item>69</item>
+    </string-array>
+    <string-array name="study_knowledge_question_042">
+        <item>Từ nào viết đúng? </item>
+        <item>Nhẩy dây</item>
+        <item>Nhải dây</item>
+        <item>Nhảy dai</item>
+        <item>Nhảy dây</item>
+        <item>Nhảy dây</item>
+    </string-array>
+    <string-array name="study_knowledge_question_043">
+        <item>Khi làm sai 1 việc gì đó thì phải:</item>
+        <item>Cảm ơn</item>
+        <item>Xin lỗi</item>
+        <item>Nói dối</item>
+        <item>Khóc</item>
+        <item>Xin lỗi</item>
+    </string-array>
+    <string-array name="study_knowledge_question_044">
+        <item>An 6 tuổi học lớp 1. Vậy khi lên lớp 3 An mấy tuổi? </item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="study_knowledge_question_045">
+        <item>Từ nào sai chính tả?  </item>
+        <item>Cá ngựa</item>
+        <item>Con ngỗng</item>
+        <item>Ngĩ trưa</item>
+        <item>Rau gò</item>
+        <item>Ngĩ trưa</item>
+    </string-array>
+    <string-array name="study_knowledge_question_046">
+        <item>Thánh Gióng lên mấy tuổi vẫn chưa biết nói cười?</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_knowledge_question_047">
+        <item>Hai số nào cộng lại có tổng bằng 5? </item>
+        <item>0 và 4</item>
+        <item>2 và 3</item>
+        <item>5 và 1</item>
+        <item>4 và 2</item>
+        <item>2 và 3</item>
+    </string-array>
+    <string-array name="study_knowledge_question_048">
+        <item>Vần nào sau đây không có trong tiếng Việt? </item>
+        <item>uôm</item>
+        <item>iêc</item>
+        <item>och</item>
+        <item>ich</item>
+        <item>och</item>
+    </string-array>
+    <string-array name="study_knowledge_question_049">
+        <item>Vật nào không phải dụng cụ làm bếp? </item>
+        <item>Nồi</item>
+        <item>Dao</item>
+        <item>Chảo</item>
+        <item>Ghế</item>
+        <item>Ghế</item>
+    </string-array>
+    <string-array name="study_knowledge_question_050">
+        <item>Trong truyện Tấm Cám, sau khi cô Tấm chết,cô Tấm hóa thành cây gì? </item>
+        <item>Cây mận</item>
+        <item>Cây thị</item>
+        <item>Cây quýt</item>
+        <item>Cây nhãn</item>
+        <item>Cây thị</item>
+    </string-array>
+    <string-array name="study_knowledge_question_051">
+        <item>3 chục  được viết thành số là:</item>
+        <item>3</item>
+        <item>13</item>
+        <item>30</item>
+        <item>03</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="study_knowledge_question_052">
+        <item>Từ nào viết sai? </item>
+        <item>Con bò</item>
+        <item>Cây cõ</item>
+        <item>Nhãn vở</item>
+        <item>Dòng sông</item>
+        <item>Cây cõ</item>
+    </string-array>
+    <string-array name="study_knowledge_question_053">
+        <item>Từ còn thiếu trong câu thơ sau là gì?: “…Ơi! Thương lấy bí cùng.Tuy rằng khác giống nhưng chung một giàn”</item>
+        <item>Mía</item>
+        <item>Cam</item>
+        <item>Bầu</item>
+        <item>Ổi</item>
+        <item>Bầu</item>
+    </string-array>
+    <string-array name="study_knowledge_question_054">
+        <item>Một bước chân của học sinh lớp 1 dài khoảng:</item>
+        <item>30 cm</item>
+        <item>30 dm</item>
+        <item>30 mm</item>
+        <item>13 dm</item>
+        <item>30 cm</item>
+    </string-array>
+    <string-array name="study_knowledge_question_055">
+        <item>Âm nào không ghép được với i? </item>
+        <item>K</item>
+        <item>Ng</item>
+        <item>Gh</item>
+        <item>Ngh</item>
+        <item>Ng</item>
+    </string-array>
+    <string-array name="study_knowledge_question_056">
+        <item>Một Tiếng dài nhất trong tiếng Việt có bao nhiêu chữ cái? </item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="study_knowledge_question_057">
+        <item>Hà có 5 đồng, Hà mua 2 đồng kẹo và 1 đồng bánh.Hỏi Hà còn lại mấy đồng? </item>
+        <item>8</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_knowledge_question_058">
+        <item>Quả (trái cây) nào sau đây có múi?: </item>
+        <item>Cà chua</item>
+        <item>Ổi</item>
+        <item>Mận</item>
+        <item>Măng cụt</item>
+        <item>Măng cụt</item>
+    </string-array>
+    <string-array name="study_knowledge_question_059">
+        <item>Trái nghĩa với từ “Thấp” là từ gì?</item>
+        <item>Cao</item>
+        <item>Ngắn</item>
+        <item>Dài</item>
+        <item>Ốm</item>
+        <item>Cao</item>
+    </string-array>
+    <string-array name="study_knowledge_question_060">
+        <item>Con vật nào có hình dạng khác với 3 con kia?</item>
+        <item>Rùa</item>
+        <item>Chăn</item>
+        <item>Lươn</item>
+        <item>Rắn</item>
+        <item>Rùa</item>
+    </string-array>
+    <string-array name="study_knowledge_question_061">
+        <item>Nụ 3 tuổi, Nụ ít hơn Hoa 5 tuổi. Hỏi Hoa mấy tuổi?</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="study_knowledge_question_062">
+        <item>Từ nào viết sai? </item>
+        <item>Xin lỗi</item>
+        <item>Trốn tìm</item>
+        <item>Bánh ít</item>
+        <item>Con níc</item>
+        <item>Con níc</item>
+    </string-array>
+    <string-array name="study_knowledge_question_063">
+        <item>Từ nào viết sai?</item>
+        <item>I tế</item>
+        <item>Trí nhớ</item>
+        <item>Chú ý</item>
+        <item>Bác sĩ</item>
+        <item>I tế</item>
+    </string-array>
+    <string-array name="study_knowledge_question_064">
+        <item>Điền dấu thích hợp vào vị trí dấu “?” trong bài toán:   24 – 13 ? 17 -5</item>
+        <item>&gt;</item>
+        <item>&lt;</item>
+        <item>=</item>
+        <item>-</item>
+        <item>&lt;</item>
+    </string-array>
+    <string-array name="study_knowledge_question_065">
+        <item>Từ phù hợp với dấu “…” trong câu ca dao dưới: Con quạ đen, con cò trắng. Con ếch ngắn, con rắn… </item>
+        <item>Bò</item>
+        <item>Dài</item>
+        <item>Cắn</item>
+        <item>Ăn</item>
+        <item>Dài</item>
+    </string-array>
+    <string-array name="study_knowledge_question_066">
+        <item>Cách viết nào đúng?</item>
+        <item>Nga</item>
+        <item>Nge</item>
+        <item>Ngê</item>
+        <item>Ngỉ</item>
+        <item>Nga</item>
+    </string-array>
+    <string-array name="study_knowledge_question_067">
+        <item>Một sợi dây dài 12 cm. Nếu cắt đi một đoạn 5 cm thì đoạn dây đó còn lại bao nhiêu cm? </item>
+        <item>10 cm</item>
+        <item>8 cm</item>
+        <item>7 cm</item>
+        <item>5 cm</item>
+        <item>7 cm</item>
+    </string-array>
+    <string-array name="study_knowledge_question_068">
+        <item>Sữa bé uống hàng ngày được lấy từ con vật nào?</item>
+        <item>Bò</item>
+        <item>Lợn</item>
+        <item>Ngựa</item>
+        <item>Voi</item>
+        <item>Bò</item>
+    </string-array>
+    <string-array name="study_knowledge_question_069">
+        <item>Từ nào viết sai?</item>
+        <item>Con trăn</item>
+        <item>Mặt trăng</item>
+        <item>Trăng rằm</item>
+        <item>Khăng tắm</item>
+        <item>Khăng tắm</item>
+    </string-array>
+    <string-array name="study_knowledge_question_070">
+        <item>Một việc bé phải làm trước khi đi ngủ?</item>
+        <item>Xem phim</item>
+        <item>Ăn bánh</item>
+        <item>Đánh răng</item>
+        <item>Chơi game</item>
+        <item>Đánh răng</item>
+    </string-array>
+    <string-array name="study_knowledge_question_071">
+        <item>Phép tính nào có kết quả bằng 2?</item>
+        <item>7 - 2 - 0</item>
+        <item>1 + 3 + 5</item>
+        <item>4 - 0 - 2</item>
+        <item>5 + 1 - 2</item>
+        <item>4 - 0 - 2</item>
+    </string-array>
+    <string-array name="study_knowledge_question_072">
+        <item>Tiếng “Làng” ghép được với tiếng nào bên dưới?:</item>
+        <item>Đường</item>
+        <item>Xóm</item>
+        <item>Điệu</item>
+        <item>Sóng</item>
+        <item>Xóm</item>
+    </string-array>
+    <string-array name="study_knowledge_question_073">
+        <item>Con vật nào gây hại cho đồng ruộng? </item>
+        <item>Gà</item>
+        <item>Chuột</item>
+        <item>Chó</item>
+        <item>Mèo</item>
+        <item>Chuột</item>
+    </string-array>
+    <string-array name="study_knowledge_question_074">
+        <item>Vần nào không có trong tiếng Việt?</item>
+        <item>En</item>
+        <item>Ên</item>
+        <item>Êng</item>
+        <item>ÊM</item>
+        <item>Êng</item>
+    </string-array>
+    <string-array name="study_knowledge_question_075">
+        <item>Tiếng “Làn” không ghép được với tiếng nào bên dưới?:</item>
+        <item>Đường</item>
+        <item>Xóm</item>
+        <item>Điệu</item>
+        <item>Sóng</item>
+        <item>Xóm</item>
+    </string-array>
+    <string-array name="study_knowledge_question_076">
+        <item>Vật dụng nào không che mưa được?</item>
+        <item>Áo mưa</item>
+        <item>Nón lá</item>
+        <item>Ô (dù)</item>
+        <item>Nón vải</item>
+        <item>Nón vải</item>
+    </string-array>
+    <string-array name="study_knowledge_question_077">
+        <item>Điền số thích hợp vào dấu “?” trong bài toán: 10 &lt; ? &lt; 40</item>
+        <item>9</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="study_knowledge_question_078">
+        <item>Câu hát “Tết trung thu rước đèn đi chơi” ở bài hát nào?</item>
+        <item>Đếm sao</item>
+        <item>Chiếc đèn ông sao</item>
+        <item>Rước đèn tháng 8</item>
+        <item>Rước đèn trung thu</item>
+        <item>Rước đèn tháng 8</item>
+    </string-array>
+    <string-array name="study_knowledge_question_079">
+        <item>Từ nào viết sai?</item>
+        <item>Y tế</item>
+        <item>Trý nhớ</item>
+        <item>Chú ý</item>
+        <item>Bác sĩ</item>
+        <item>Trý nhớ</item>
+    </string-array>
+    <string-array name="study_knowledge_question_080">
+        <item>Trái nghĩa với từ “Vui” là từ gì?</item>
+        <item>Buồn</item>
+        <item>Mừng</item>
+        <item>Huân hoan</item>
+        <item>Tưng bừng</item>
+        <item>Buồn</item>
+    </string-array>
+    <string-array name="study_knowledge_question_081">
+        <item>Từ nào viết sai?</item>
+        <item>Ăn mặc</item>
+        <item>Lắc lư</item>
+        <item>Giất ngủ</item>
+        <item>Quả gấc</item>
+        <item>Giất ngủ</item>
+    </string-array>
+    <string-array name="study_knowledge_question_082">
+        <item>Hôm qua là chủ nhật. Ngày mai là thứ mấy?</item>
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 3</item>
+    </string-array>
+    <string-array name="study_knowledge_question_083">
+        <item>Có chân mà chẳng biết đi.Có mặt phẳng lì cho bé ngồi lên.Đố là cái gì?</item>
+        <item>Cái bàn</item>
+        <item>Cái bảng</item>
+        <item>Cái ghế</item>
+        <item>Cái giường</item>
+        <item>Cái ghế</item>
+    </string-array>
+    <string-array name="study_knowledge_question_084">
+        <item>Loại chim nào bắt chuột rất giỏi?</item>
+        <item>Chim sẻ</item>
+        <item>Bồ câu</item>
+        <item>Cú mèo</item>
+        <item>Đại bàng</item>
+        <item>Cú mèo</item>
+    </string-array>
+    <string-array name="study_knowledge_question_085">
+        <item>Ông già Nô – el thường đi vào nhà theo đường nào?</item>
+        <item>Cửa chính</item>
+        <item>Cửa sổ</item>
+        <item>Mái nhà</item>
+        <item>Ống khói</item>
+        <item>Ống khói</item>
+    </string-array>
+    <string-array name="study_knowledge_question_086">
+        <item>Bà cho Lan 18 viên kẹo. Lan ăn hết 5 viên.Hỏi Lan còn lại bao nhiêu viên? </item>
+        <item>23</item>
+        <item>33</item>
+        <item>3</item>
+        <item>13</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="study_knowledge_question_087">
+        <item>Từ nào viết sai?</item>
+        <item>Chim sẻ</item>
+        <item>Bồ câu</item>
+        <item>Kú mèo</item>
+        <item>Đại bàng</item>
+        <item>Kú mèo</item>
+    </string-array>
+    <string-array name="study_knowledge_question_088">
+        <item>Con vật nào không được nuôi trong nhà? </item>
+        <item>Mèo</item>
+        <item>Sư tử</item>
+        <item>Chó</item>
+        <item>Chim</item>
+        <item>Sư tử</item>
+    </string-array>
+    <string-array name="study_knowledge_question_089">
+        <item>Lông xanh, mỏ dài, có tài bắt cá là con chim gì?</item>
+        <item>Chim én</item>
+        <item>Hải âu</item>
+        <item>Chim bói cá</item>
+        <item>Chim sẻ</item>
+        <item>Chim bói cá</item>
+    </string-array>
+    <string-array name="study_knowledge_question_090">
+        <item>Nhà An có 4 con gà. Mẹ mua thêm 3 con gà nữa.Hỏi nhà An có tất cả mấy con gà?</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="study_knowledge_question_091">
+        <item>Minh có 6 quả bóng. Minh cho bạn 2 quả bóng. Hỏi Minh còn lại bao nhiêu quả bóng?</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_knowledge_question_092">
+        <item>Tổ 1 có 3 bạn nam. Số bạn nữ nhiều hơn số bạn nam 2 bạn. Hỏi tổ 1 có bao nhiêu bạn nữ?</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_knowledge_question_093">
+        <item>Nam có 8 viên bi xanh. Số viên bi xanh nhiều hơn số viên bi đỏ là 2 viên. Hỏi Nam có bao nhiêu viên bi đỏ?</item>
+        <item>6</item>
+        <item>9</item>
+        <item>12</item>
+        <item>10</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="study_knowledge_question_094">
+        <item>Mẹ cho Nga một số cây kẹo. Nga ăn hết 3 cây và đếm lại mình còn 4 cây kẹo. Hỏi mẹ đã cho Nga bao nhiêu cây kẹo?</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="study_knowledge_question_095">
+        <item>Từ nào viết sai?</item>
+        <item>Cửa chính</item>
+        <item>Kửa sổ</item>
+        <item>Mái nhà</item>
+        <item>Ống khói</item>
+        <item>Kửa sổ</item>
+    </string-array>
+    <string-array name="study_knowledge_question_096">
+        <item>Tí có một số viên bi. Tí chơi với Tèo thắng thêm 3 viên nữa. Tí đếm số bi của mình tất cả được 9 viên. Hỏi ban đầu Tí có mấy viên bi?</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="study_knowledge_question_097">
+        <item>Năm nay Tâm 8 tuổi và hơn Hoa 2 tuổi. Hỏi 2 năm trước tổng số tuổi của hai chị em là bao nhiêu? </item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="study_knowledge_question_098">
+        <item>An có 10 viên bi, Bình có 8 viên bi. Nếu Bình có thêm 5 viên bi nữa thì:</item>
+        <item>Số bi của An và Bình bằng nhau</item>
+        <item>Số bi của An nhiều hơn số bi của Bình 7 viên</item>
+        <item>Số bi của Bình nhiều hơn số bi của An 3 viên</item>
+        <item>Tổng số bi của An và Bình la 15 viên</item>
+        <item>Số bi của Bình nhiều hơn số bi của An 3 viên</item>
+    </string-array>
+    <string-array name="study_knowledge_question_099">
+        <item>Huy có 10 viên bi. Bình có ít hơn Huy một số bi. Huy cho Bình 2 viên thì số bi của 2 bạn bằng nhau. Hỏi trước khi Huy cho Bình có mấy viên bi?</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="study_knowledge_question_100">
+        <item>Tổ 1 có 10 học sinh. Trong đó có 4 bạn nữ.Hỏi tổ 1 có mấy bạn nam? </item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="study_knowledge_question_101">
+        <item>Mẹ tặng Lan 7 quyển vở. Lan đã sử dụng 2 quyển.Hỏi Lan còn lại mấy quyển vở? </item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_knowledge_question_102">
+        <item>Nhà Tâm nuôi 4 con lợn (heo). Mẹ mua thêm 3 con lợn nữa. Hỏi nhà Tâm có tất cả mấy con lợn?</item>
+        <item>8</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="study_knowledge_question_103">
+        <item>Một hộp phấn có 10 viên. Cô giáo đã sử dụng hết 6 viên. Hỏi hộp phấn còn lại mấy viên? </item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_knowledge_question_104">
+        <item>Tí được mẹ tặng 6 bút chì. Tí được tặng ít hơn Tèo 2 bút chì. Hỏi Tèo được tặng mấy bút chì?</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="study_knowledge_question_105">
+        <item>Mẹ mua cho Tí một số quyển vở. Tí nghĩ nếu đem cho em 3 quyển thì mình sẽ còn lại 5 quyển. Hỏi mẹ đã mua cho Tí bao nhiêu quyển vở?</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="study_knowledge_question_106">
+        <item>Một tổ học sinh xếp hàng. Trong đó: 1 bạn đứng trước 2 bạn, 1 bạn đứng giữa 2 bạn, 1 bạn đứng sau 2 bạn. Hỏi tổ đó có mấy bạn?</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_knowledge_question_107">
+        <item>Lan có 10 bông hoa. Hồng có 7 bông hoa. Nếu Lan tặng Hồng thêm 2 bông hoa thì:</item>
+        <item>Lan còn lại 7 bông hoa.</item>
+        <item>Số hoa của Hồng là 7 bông hoa</item>
+        <item>Lan nhiều Hồng 1 bông hoa</item>
+        <item>Lan ít hơn Hồng 1 bông hoa</item>
+        <item>Lan ít hơn Hồng 1 bông hoa</item>
+    </string-array>
+    <string-array name="study_knowledge_question_108">
+        <item>Có 15 học sinh, được xếp thành 2 hàng. Nếu chuyển 3 học sinh từ hàng 1 sang hàng 2 thì hàng 2 sẽ có 10 bạn. Hỏi trước khi chuyến, mỗi hàng có mấy học sinh?</item>
+        <item>Hàng 1 có 10 bạn, hàng 2 có 5 bạn.</item>
+        <item>Hàng 1 có 9 bạn, hàng 2 có 6 bạn.</item>
+        <item>Hàng 1 có 8 bạn, hàng 2 có 7 bạn.</item>
+        <item>Hàng 1 có 7 bạn, hàng 2 có 8 bạn.</item>
+        <item>Hàng 1 có 8 bạn, hàng 2 có 7 bạn.</item>
+    </string-array>
+    <string-array name="study_knowledge_question_109">
+        <item>Tí có 10 viên bi. Tèo cũng có 1 số viên bi. Tí nghĩ, nếu cho Tèo 2 bi thì số bi còn lại của mình sẽ nhiều hơn Tèo 1 bi. Hỏi trước khi Tí cho, số bi của Tèo là bao nhiêu?</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_knowledge_question_110">
+        <item>Lần thứ nhất Hà tô được 15 bức tranh. Lần thứ 2 Hà tô được 12 bức tranh. Hỏi cả 2 lần Hà tô đượcbao nhiêu bức tranh?</item>
+        <item>26</item>
+        <item>27</item>
+        <item>3</item>
+        <item>28</item>
+        <item>27</item>
+    </string-array>
+    <string-array name="study_knowledge_question_111">
+        <item>Ngày thứ nhất An bắt được 11 con dế. Ngày thứ hai An bắt được nhiều hơn ngày thứ nhất 2 con dế.Hỏi ngày thứ 2 An bắt được bao nhiêu con dế? </item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>10</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="study_knowledge_question_112">
+        <item>Mẹ mua cho Bình 8 nhãn vở và mua cho An 5 nhãn vở. Hỏi mẹ đã mua tất cả bao nhiêu nhãn vở?</item>
+        <item>3</item>
+        <item>12</item>
+        <item>10</item>
+        <item>13</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="study_knowledge_question_113">
+        <item>Ngày thứ nhất An làm được 1 chục và 2 bông hoa. Ngày thứ hai, An làm ít hơn ngày thứ nhất 2 bông hoa. Hỏi ngày thứ 2 An làm được mấy bông hoa?</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="study_knowledge_question_114">
+        <item>Tí khoe với Tèo: “Mình có 2 chục  và 7 viên bi”. Tèo nói với Tí: “Số viên bi của bạn ít hơn mình 2 viên”. Hỏi Tèo có mấy viên bi? </item>
+        <item>25</item>
+        <item>26</item>
+        <item>29</item>
+        <item>30</item>
+        <item>29</item>
+    </string-array>
+    <string-array name="study_knowledge_question_115">
+        <item>Mẹ An mua 4 chục và 8 trứng gà. Gia đình đã sử dụng hết 2 chục và 5 trứng gà. Hỏi nhà An còn lại mấy quả trứng gà? </item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="study_knowledge_question_116">
+        <item>Tí nói với Tèo: “Số vở của mình là số chẵn lớn nhất có 1 chữ số”. Tèo nói với Tí: “Số vở của mình lớn hơn bạn 2 đơn vị”. Phát biểu nào dưới đây đúng?</item>
+        <item>Tí có 10 quyển vở.</item>
+        <item>Tèo có 9 quyển vở.</item>
+        <item>Tí có 8 quyển vở và Tèo có 1 qyển vở.</item>
+        <item>Tí có 8 quyển vở và Tèo có 10 qyển vở.</item>
+        <item>Tí có 8 quyển vở và Tèo có 10 qyển vở.</item>
+    </string-array>
+    <string-array name="study_knowledge_question_117">
+        <item>Bao thứ nhất đựng 12 Kg gạo. Bao thứ hai đựng 8 Kg gạo. Nếu lấy 2 Kg từ bao thứ nhất đổ vào bao thứ hai thì:</item>
+        <item>Bao thứ nhất nhẹ hơn bao thứ hai.</item>
+        <item>Bao thứ hai nhẹ hơn bao thứ nhất.</item>
+        <item>Số Kg gạo ở 2 bao bằng nhau</item>
+        <item>Số Kg gạo cả 2 bao là 18 Kg</item>
+        <item>Số Kg gạo ở 2 bao bằng nhau</item>
+    </string-array>
+    <string-array name="study_knowledge_question_118">
+        <item>Thỏ và Sóc đi thi học sinh giỏi toán. Điểm của Thỏ là số lẻ lớn nhất có 1 chữ số. Điểm của Sóc là số kề trước điểm của Thỏ. Cho biết điểm của Thỏ và Sóc là bao nhiêu?</item>
+        <item>Thỏ: 10 điểm, Sóc: 9 điểm.</item>
+        <item>Thỏ: 8 điểm, Sóc: 9 điểm.</item>
+        <item>Thỏ: 9 điểm, Sóc: 8 điểm.</item>
+        <item>Thỏ: 7 điểm, Sóc: 8 điểm.</item>
+        <item>Thỏ: 9 điểm, Sóc: 8 điểm.</item>
+    </string-array>
+    <string-array name="study_knowledge_question_119">
+        <item>Lan và Hoa cắt giấy thành những hình vuông. Lan cắt được 20 hình. Nếu Lan cho Hoa 2 hình thì số hình của hai bạn bằng nhau. Hỏi Hoa cắt được bao nhiêu hình?</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>16</item>
+    </string-array>
+
+</resources>

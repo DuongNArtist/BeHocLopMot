@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="study_math_guess_00">
+        <item>Tôi là số chẵn. Tôi lớn hơn 2 và nhỏ hơn 6. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_math_guess_01">
+        <item>Tôi là số lẻ. Tôi lớn hơn 3 và nhỏ hơn 7. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>6</item>
+        <item>4</item>
+        <item>5</item>
+        <item>9</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_math_guess_02">
+        <item>Tôi là số lẻ. Hàng chục của tôi là 1. Tôi nhỏ hơn 13. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>9</item>
+        <item>7</item>
+        <item>12</item>
+        <item>11</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="study_math_guess_03">
+        <item>Tôi là số chẵn. Hàng đơn vị của tôi là 6. Tôi lớn hơn 10 và nhỏ hơn 20. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>14</item>
+        <item>6</item>
+        <item>16</item>
+        <item>18</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="study_math_guess_04">
+        <item>Tôi là số chẵn. Tôi không phải là 6 Tôi nhỏ hơn 10 và lớn hơn 4. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>8</item>
+        <item>9</item>
+        <item>7</item>
+        <item>6</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="study_math_guess_05">
+        <item>Tôi là số lẻ. Tôi không phải là 7. Tôi nhỏ hơn 10 và lớn hơn 5. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>8</item>
+        <item>3</item>
+        <item>1</item>
+        <item>9</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="study_math_guess_06">
+        <item>Tôi là số chẵn. Hàng chục của tôi là 1. Tôi không phải là 12. Tôi nhỏ hơn 16 và lớn hơn 10 Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>18</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="study_math_guess_07">
+        <item>Tôi là số lẻ. Tôi lớn hơn 13 và nhỏ hơn 17. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>11</item>
+        <item>15</item>
+        <item>16</item>
+        <item>13</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="study_math_guess_08">
+        <item>Tôi là số lẻ. Tôi lớn hơn 1 và nhỏ hơn 5. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>1</item>
+        <item>4</item>
+        <item>3</item>
+        <item>9</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_math_guess_09">
+        <item>Tôi là số lẻ. Hàng chục của tôi là 3. Tôi nhỏ hơn 23. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>9</item>
+        <item>22</item>
+        <item>21</item>
+        <item>11</item>
+        <item>21</item>
+    </string-array>
+    <string-array name="study_math_guess_10">
+        <item>Tôi là số lẻ. Hàng chục của tôi là 4. Tôi lớn hơn 43. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>41</item>
+        <item>45</item>
+        <item>31</item>
+        <item>47</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="study_math_guess_11">
+        <item>Tôi là số lẻ. Hàng chục của tôi là 5. Tôi nhỏ hơn 55. Lớn hơn 51. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>55</item>
+        <item>53</item>
+        <item>61</item>
+        <item>57</item>
+        <item>53</item>
+    </string-array>
+    <string-array name="study_math_guess_12">
+        <item>Tôi là số chẵn. Tôi lớn hơn 12 và nhỏ hơn 16. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>13</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="study_math_guess_13">
+        <item>Tôi là số lẻ. Tôi lớn hơn 17 và nhỏ hơn 21. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>11</item>
+        <item>17</item>
+        <item>19</item>
+        <item>23</item>
+        <item>19</item>
+    </string-array>
+    <string-array name="study_math_guess_14">
+        <item>Tôi là số chẵn. Tôi lớn hơn 78 và nhỏ hơn 82. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>88</item>
+        <item>86</item>
+        <item>79</item>
+        <item>82</item>
+        <item>80</item>
+    </string-array>
+    <string-array name="study_math_guess_15">
+        <item>Tôi là số lẻ. Tôi lớn hơn 95 và nhỏ hơn 99. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>91</item>
+        <item>97</item>
+        <item>99</item>
+        <item>95</item>
+        <item>97</item>
+    </string-array>
+    <string-array name="study_math_guess_16">
+        <item>Tôi là số chẵn. Tôi lớn hơn 68 và nhỏ hơn 72. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>72</item>
+        <item>70</item>
+        <item>69</item>
+        <item>68</item>
+        <item>70</item>
+    </string-array>
+    <string-array name="study_math_guess_17">
+        <item>Tôi là số lẻ. Tôi lớn hơn 67 và nhỏ hơn 71. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>69</item>
+        <item>67</item>
+        <item>71</item>
+        <item>79</item>
+        <item>69</item>
+    </string-array>
+    <string-array name="study_math_guess_18">
+        <item>Tôi là số chẵn. Tôi lớn hơn 58 và nhỏ hơn 62. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>72</item>
+        <item>60</item>
+        <item>64</item>
+        <item>62</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="study_math_guess_19">
+        <item>Tôi là số lẻ. Tôi lớn hơn 83 và nhỏ hơn 87. Bạn hãy đoán thử tôi là số mấy?</item>
+        <item>81</item>
+        <item>87</item>
+        <item>83</item>
+        <item>85</item>
+        <item>85</item>
+    </string-array>
+
+</resources>

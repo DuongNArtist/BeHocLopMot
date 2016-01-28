@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="study_math_even">Trong các số sau đây, số nào là số chẵn?</string>
+    <string name="study_math_odd">Trong các số sau đây, số nào là số lẻ?</string>
+
+    <string-array name="study_math_even_odd_00">
+        <item>0</item>
+        <item>7</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_math_even_odd_01">
+        <item>0</item>
+        <item>1</item>
+        <item>10</item>
+        <item>9</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_math_even_odd_02">
+        <item>0</item>
+        <item>3</item>
+        <item>9</item>
+        <item>5</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="study_math_even_odd_03">
+        <item>1</item>
+        <item>19</item>
+        <item>2</item>
+        <item>4</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_even_odd_04">
+        <item>0</item>
+        <item>7</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_math_even_odd_05">
+        <item>0</item>
+        <item>1</item>
+        <item>10</item>
+        <item>9</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_math_even_odd_06">
+        <item>0</item>
+        <item>3</item>
+        <item>9</item>
+        <item>5</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="study_math_even_odd_07">
+        <item>1</item>
+        <item>19</item>
+        <item>2</item>
+        <item>4</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_even_odd_08">
+        <item>0</item>
+        <item>7</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_math_even_odd_09">
+        <item>0</item>
+        <item>1</item>
+        <item>10</item>
+        <item>9</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_math_even_odd_10">
+        <item>0</item>
+        <item>3</item>
+        <item>9</item>
+        <item>5</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="study_math_even_odd_11">
+        <item>1</item>
+        <item>19</item>
+        <item>2</item>
+        <item>4</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_even_odd_12">
+        <item>0</item>
+        <item>7</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_math_even_odd_13">
+        <item>0</item>
+        <item>1</item>
+        <item>10</item>
+        <item>9</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_math_even_odd_14">
+        <item>0</item>
+        <item>3</item>
+        <item>9</item>
+        <item>5</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="study_math_even_odd_15">
+        <item>1</item>
+        <item>19</item>
+        <item>2</item>
+        <item>4</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_even_odd_16">
+        <item>0</item>
+        <item>7</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_math_even_odd_17">
+        <item>0</item>
+        <item>1</item>
+        <item>10</item>
+        <item>9</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_math_even_odd_18">
+        <item>0</item>
+        <item>3</item>
+        <item>9</item>
+        <item>5</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="study_math_even_odd_19">
+        <item>1</item>
+        <item>19</item>
+        <item>2</item>
+        <item>4</item>
+        <item>0</item>
+    </string-array>
+
+</resources>

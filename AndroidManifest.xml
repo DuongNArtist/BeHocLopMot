@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dsa.behoclopmot"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.dsa.behoclopmot.utilities.Dsa"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" >
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityLogo"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityMain"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityGame"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityGamePoke"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityGameRado"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityStudy"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityStudyPhilology"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityStudyLesson"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityPhilologySpeak"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityPhilologyCatch"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityPhilologyJoin"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityStudyKnowledge"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityStudyMath"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityMathAddSub10"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityMathAddSub100"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityMathCompare"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityMathTrueFalse"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityMathCalculate"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityMathEvenOdd"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityMathGuess"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dsa.behoclopmot.ActivityMathConstitute"
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+</manifest>

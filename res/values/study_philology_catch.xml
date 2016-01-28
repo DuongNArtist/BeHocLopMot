@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="study_philology_catch">
+        <item>ba lô</item>
+        <item>bàn</item>
+        <item>bão</item>
+        <item>bay lượn</item>
+        <item>bận rộn</item>
+        <item>bầu rượu</item>
+        <item>bầu</item>
+        <item>bầy hươu</item>
+        <item>bé trai</item>
+        <item>bé</item>
+        <item>bèo</item>
+        <item>bê</item>
+        <item>bế</item>
+        <item>bên phải</item>
+        <item>bí</item>
+        <item>bia đá</item>
+        <item>bó củi</item>
+        <item>bó mạ</item>
+        <item>bò nghé</item>
+        <item>bò</item>
+        <item>bó</item>
+        <item>bọ</item>
+        <item>bốn</item>
+        <item>bờ đê</item>
+        <item>bơi lội</item>
+        <item>bơi</item>
+        <item>búa</item>
+        <item>bún</item>
+        <item>buổi chiều</item>
+        <item>buôn bán</item>
+        <item>cá biển</item>
+        <item>cà chua</item>
+        <item>cá đuối</item>
+        <item>cá mòi</item>
+        <item>ca nô</item>
+        <item>cá ngừ</item>
+        <item>cá rô</item>
+        <item>cá thu</item>
+        <item>cá trê</item>
+        <item>cá</item>
+        <item>cái đĩa</item>
+        <item>cái kéo</item>
+        <item>cái phễu</item>
+        <item>cái túi</item>
+        <item>cao lớn</item>
+        <item>cân</item>
+        <item>cầu</item>
+        <item>cây cau</item>
+        <item>cây cầu</item>
+        <item>cây chổi</item>
+        <item>cấy lúa</item>
+        <item>cây mía</item>
+        <item>cây nêu</item>
+        <item>cò</item>
+        <item>cỏ</item>
+        <item>cọ</item>
+        <item>còi</item>
+        <item>con chồn</item>
+        <item>con giun</item>
+        <item>con lươn</item>
+        <item>con nhện</item>
+        <item>cối xay</item>
+        <item>cơn mưa</item>
+        <item>củ cải</item>
+        <item>cụ già</item>
+        <item>củ kiệu</item>
+        <item>củ nghệ</item>
+        <item>củ từ</item>
+        <item>cú vọ</item>
+        <item>củi</item>
+        <item>cuộn dây</item>
+        <item>cử tạ</item>
+        <item>cửa sổ</item>
+        <item>chả giò</item>
+        <item>chào cờ</item>
+        <item>chia quà</item>
+        <item>chim yến</item>
+        <item>chó xù</item>
+        <item>chổi</item>
+        <item>chợ quê</item>
+        <item>chơi</item>
+        <item>chú cuội</item>
+        <item>chữ số</item>
+        <item>da cá</item>
+        <item>dế mèn</item>
+        <item>dế</item>
+        <item>dừa khô</item>
+        <item>dừa</item>
+        <item>đá</item>
+        <item>đàn</item>
+        <item>đảo</item>
+        <item>đèn điện</item>
+        <item>đĩa</item>
+        <item>địu</item>
+        <item>đò</item>
+        <item>đồ chơi</item>
+        <item>đôi đũa</item>
+        <item>đồi núi</item>
+        <item>đua ngựa</item>
+        <item>ghế đá</item>
+        <item>ghế gỗ</item>
+        <item>ghi nhớ</item>
+        <item>gõ mõ</item>
+        <item>gồ ghề</item>
+        <item>gửi</item>
+        <item>già yếu</item>
+        <item>giỏ cá</item>
+        <item>gió thổi</item>
+        <item>giun</item>
+        <item>hải đảo</item>
+        <item>hề</item>
+        <item>hồ</item>
+        <item>hổ</item>
+        <item>hươu cao cổ</item>
+        <item>kéo</item>
+        <item>kiên nhẫn</item>
+        <item>khen ngợi</item>
+        <item>lá cờ</item>
+        <item>lá đa</item>
+        <item>lá khô</item>
+        <item>lá sen</item>
+        <item>lá tía tô</item>
+        <item>lá thư</item>
+        <item>lau nhà</item>
+        <item>leo trèo</item>
+        <item>lễ hội</item>
+        <item>lều</item>
+        <item>lò sưởi</item>
+        <item>lò</item>
+        <item>lợn</item>
+        <item>lùn</item>
+        <item>lưỡi rìu</item>
+        <item>mái nhà</item>
+        <item>mè</item>
+        <item>mèo</item>
+        <item>mền</item>
+        <item>mía</item>
+        <item>mịn</item>
+        <item>mơn mởn</item>
+        <item>múa võ</item>
+        <item>múa</item>
+        <item>múi bưởi</item>
+        <item>mũi</item>
+        <item>mưa phùn</item>
+        <item>mưu trí</item>
+        <item>nải chuối</item>
+        <item>nĩa</item>
+        <item>níu kéo</item>
+        <item>níu</item>
+        <item>nỏ</item>
+        <item>nơ</item>
+        <item>núi lửa</item>
+        <item>núi</item>
+        <item>ngà voi</item>
+        <item>ngã</item>
+        <item>ngày hội</item>
+        <item>nghệ sĩ</item>
+        <item>nghỉ hè</item>
+        <item>nghỉ hưu</item>
+        <item>nghỉ ngơi</item>
+        <item>ngói mới</item>
+        <item>ngói</item>
+        <item>ngôi chùa</item>
+        <item>ngôi sao</item>
+        <item>ngựa</item>
+        <item>ngửi</item>
+        <item>nhà ga</item>
+        <item>nhà in</item>
+        <item>nhà kho</item>
+        <item>nhà ngói</item>
+        <item>nha sĩ</item>
+        <item>nhà trẻ</item>
+        <item>nhà trọ</item>
+        <item>nhảy dây</item>
+        <item>nhện</item>
+        <item>nhìn</item>
+        <item>nhổ cỏ</item>
+        <item>phễu</item>
+        <item>phố xá</item>
+        <item>phở bò</item>
+        <item>qua đò</item>
+        <item>quả thị</item>
+        <item>quen</item>
+        <item>rau cải</item>
+        <item>rau dền</item>
+        <item>rau</item>
+        <item>rễ mạ</item>
+        <item>rìu</item>
+        <item>rổ khế</item>
+        <item>rổ nghêu</item>
+        <item>rơi</item>
+        <item>sáo</item>
+        <item>sen</item>
+        <item>suối chảy</item>
+        <item>sữa chua</item>
+        <item>sườn đồi</item>
+        <item>tàu lượn</item>
+        <item>tỉa lá</item>
+        <item>tỉa</item>
+        <item>tổ cò</item>
+        <item>tờ bìa</item>
+        <item>tờ giấy</item>
+        <item>tủ gỗ</item>
+        <item>túi</item>
+        <item>từ điển</item>
+        <item>thả cá</item>
+        <item>thả diều</item>
+        <item>tha mồi</item>
+        <item>thói quen</item>
+        <item>thổi sáo</item>
+        <item>thổi</item>
+        <item>thợ hồ</item>
+        <item>thợ mỏ</item>
+        <item>thứ bảy</item>
+        <item>trái bầu</item>
+        <item>trái lựu</item>
+        <item>trái vải</item>
+        <item>trầu</item>
+        <item>tre ngà</item>
+        <item>trí khôn</item>
+        <item>trĩu quả</item>
+        <item>trộn</item>
+        <item>trơn</item>
+        <item>trưa hè</item>
+        <item>vải thiều</item>
+        <item>vải</item>
+        <item>vỉa hè</item>
+        <item>viên bi</item>
+        <item>vò vẽ</item>
+        <item>voi</item>
+        <item>vở</item>
+        <item>vũ trụ</item>
+        <item>vui chơi</item>
+        <item>vun xới</item>
+        <item>xe bò</item>
+        <item>xe đua</item>
+        <item>xe máy</item>
+        <item>xin lỗi</item>
+        <item>xôi</item>
+        <item>yên xe</item>
+    </string-array>
+
+</resources>

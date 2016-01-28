@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="study_philology_join_lesson">
+        <item>a - i</item>
+        <item>an - on</item>
+        <item>au - âu</item>
+        <item>ay - ây</item>
+        <item>ân - ăn</item>
+        <item>b - e - v</item>
+        <item>d - đ</item>
+        <item>en - ên</item>
+        <item>eo - ao</item>
+        <item>g - gh</item>
+        <item>h - l - ê</item>
+        <item>ia</item>
+        <item>iên - yên</item>
+        <item>iêu - yêu</item>
+        <item>in - un</item>
+        <item>iu - êu</item>
+        <item>k - kh</item>
+        <item>m - n</item>
+        <item>ng - ngh</item>
+        <item>o - c</item>
+        <item>oi - ai</item>
+        <item>ô - ơ</item>
+        <item>ôi - ơi</item>
+        <item>ôn - ơn</item>
+        <item>ph - nh</item>
+        <item>qu - gi</item>
+        <item>s - r</item>
+        <item>t - th</item>
+        <item>u - ư</item>
+        <item>ua - ưa</item>
+        <item>ui - ưi</item>
+        <item>uôi - ươi</item>
+        <item>uôn - ươn</item>
+        <item>ưu - ươu</item>
+        <item>x - ch</item>
+        <item>y - tr</item>
+    </string-array>
+    <string-array name="study_philology_join_000">
+        <item>a</item>
+        <item>c</item>
+        <item>á</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_001">
+        <item>i</item>
+        <item>b</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_002">
+        <item>a</item>
+        <item>d</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_003">
+        <item>i</item>
+        <item>v</item>
+        <item>í</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_004">
+        <item>a</item>
+        <item>l</item>
+        <item>á</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_005">
+        <item>i</item>
+        <item>b</item>
+        <item>í</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_006">
+        <item>on</item>
+        <item>l</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_007">
+        <item>an</item>
+        <item>b</item>
+        <item>àn</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_008">
+        <item>on</item>
+        <item>tr</item>
+        <item>òn</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_009">
+        <item>an</item>
+        <item>l</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_010">
+        <item>on</item>
+        <item>ch</item>
+        <item>ọn</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_011">
+        <item>an</item>
+        <item>đ</item>
+        <item>àn</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_012">
+        <item>âu</item>
+        <item>c</item>
+        <item>ầu</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_013">
+        <item>au</item>
+        <item>r</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_014">
+        <item>âu</item>
+        <item>tr</item>
+        <item>ầu</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_015">
+        <item>au</item>
+        <item>s</item>
+        <item>áu</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_016">
+        <item>âu</item>
+        <item>b</item>
+        <item>ầu</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_017">
+        <item>au</item>
+        <item>c</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_018">
+        <item>ây</item>
+        <item>d</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_019">
+        <item>ay</item>
+        <item>ch</item>
+        <item>ạy</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_020">
+        <item>ây</item>
+        <item>m</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_021">
+        <item>ay</item>
+        <item>nh</item>
+        <item>ảy</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_022">
+        <item>ây</item>
+        <item>th</item>
+        <item>ầy</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_023">
+        <item>ay</item>
+        <item>b</item>
+        <item>ảy</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_024">
+        <item>ân</item>
+        <item>c</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_025">
+        <item>ăn</item>
+        <item>tr</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_026">
+        <item>ân</item>
+        <item>m</item>
+        <item>ận</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_027">
+        <item>ăn</item>
+        <item>l</item>
+        <item>ặn</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_028">
+        <item>ân</item>
+        <item>b</item>
+        <item>ẩn</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_029">
+        <item>ăn</item>
+        <item>b</item>
+        <item>ắn</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_030">
+        <item>e</item>
+        <item>b</item>
+        <item>é</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_031">
+        <item>e</item>
+        <item>b</item>
+        <item>è</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_032">
+        <item>e</item>
+        <item>v</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_033">
+        <item>e</item>
+        <item>v</item>
+        <item>ẽ</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_034">
+        <item>e</item>
+        <item>b</item>
+        <item>ẻ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_035">
+        <item>e</item>
+        <item>b</item>
+        <item>ẹ</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_036">
+        <item>ê</item>
+        <item>d</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_037">
+        <item>o</item>
+        <item>đ</item>
+        <item>ò</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_038">
+        <item>ê</item>
+        <item>d</item>
+        <item>ế</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_039">
+        <item>a</item>
+        <item>đ</item>
+        <item>á</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_040">
+        <item>i</item>
+        <item>đ</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_041">
+        <item>a</item>
+        <item>d</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_042">
+        <item>en</item>
+        <item>s</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_043">
+        <item>ên</item>
+        <item>nh</item>
+        <item>ện</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_044">
+        <item>en</item>
+        <item>qu</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_045">
+        <item>ên</item>
+        <item>m</item>
+        <item>ền</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_046">
+        <item>en</item>
+        <item>ngh</item>
+        <item>ẹn</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_047">
+        <item>ên</item>
+        <item>tr</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_048">
+        <item>ao</item>
+        <item>s</item>
+        <item>áo</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_049">
+        <item>eo</item>
+        <item>m</item>
+        <item>èo</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_050">
+        <item>ao</item>
+        <item>b</item>
+        <item>ão</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_051">
+        <item>eo</item>
+        <item>k</item>
+        <item>éo</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_052">
+        <item>ao</item>
+        <item>đ</item>
+        <item>ảo</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_053">
+        <item>eo</item>
+        <item>b</item>
+        <item>èo</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_054">
+        <item>a</item>
+        <item>g</item>
+        <item>à</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_055">
+        <item>ê</item>
+        <item>gh</item>
+        <item>ế</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_056">
+        <item>ô</item>
+        <item>g</item>
+        <item>ỗ</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_057">
+        <item>i</item>
+        <item>gh</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_058">
+        <item>o</item>
+        <item>g</item>
+        <item>õ</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_059">
+        <item>e</item>
+        <item>gh</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_060">
+        <item>ê</item>
+        <item>b</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_061">
+        <item>ê</item>
+        <item>b</item>
+        <item>ề</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_062">
+        <item>e</item>
+        <item>h</item>
+        <item>ẹ</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_063">
+        <item>ê</item>
+        <item>h</item>
+        <item>ề</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_064">
+        <item>ê</item>
+        <item>l</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_065">
+        <item>o</item>
+        <item>l</item>
+        <item>ò</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_066">
+        <item>ia</item>
+        <item>m</item>
+        <item>ía</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_067">
+        <item>ia</item>
+        <item>t</item>
+        <item>ỉa</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_068">
+        <item>ia</item>
+        <item>ch</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_069">
+        <item>ia</item>
+        <item>n</item>
+        <item>ĩa</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_070">
+        <item>ia</item>
+        <item>b</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_071">
+        <item>ia</item>
+        <item>đ</item>
+        <item>ỉa</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_072">
+        <item>iên</item>
+        <item>đ</item>
+        <item>iện</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_073">
+        <item>yên</item>
+        <item></item>
+        <item>yến</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_074">
+        <item>iên</item>
+        <item>b</item>
+        <item>iển</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_075">
+        <item>iên</item>
+        <item>v</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_076">
+        <item>iên</item>
+        <item>k</item>
+        <item>iến</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_077">
+        <item>iên</item>
+        <item>ch</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_078">
+        <item>iêu</item>
+        <item>d</item>
+        <item>iều</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_079">
+        <item>yêu</item>
+        <item></item>
+        <item>yếu</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_080">
+        <item>iêu</item>
+        <item>h</item>
+        <item>iểu</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_081">
+        <item>iêu</item>
+        <item>ch</item>
+        <item>iếu</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_082">
+        <item>iêu</item>
+        <item>t</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_083">
+        <item>iêu</item>
+        <item>k</item>
+        <item>iệu</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_084">
+        <item>un</item>
+        <item>gi</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_085">
+        <item>in</item>
+        <item>nh</item>
+        <item>ìn</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_086">
+        <item>un</item>
+        <item>b</item>
+        <item>ún</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_087">
+        <item>in</item>
+        <item>m</item>
+        <item>ịn</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_088">
+        <item>un</item>
+        <item>l</item>
+        <item>ùn</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_089">
+        <item>in</item>
+        <item>ch</item>
+        <item>ín</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_090">
+        <item>iu</item>
+        <item>r</item>
+        <item>ìu</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_091">
+        <item>êu</item>
+        <item>ph</item>
+        <item>ễu</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_092">
+        <item>iu</item>
+        <item>n</item>
+        <item>íu</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_093">
+        <item>êu</item>
+        <item>ngh</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_094">
+        <item>iu</item>
+        <item>đ</item>
+        <item>ịu</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_095">
+        <item>êu</item>
+        <item>l</item>
+        <item>ều</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_096">
+        <item>e</item>
+        <item>k</item>
+        <item>ẻ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_097">
+        <item>ê</item>
+        <item>kh</item>
+        <item>ế</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_098">
+        <item>ê</item>
+        <item>k</item>
+        <item>ệ</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_099">
+        <item>i</item>
+        <item>kh</item>
+        <item>ỉ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_100">
+        <item>i</item>
+        <item>k</item>
+        <item>ì</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_101">
+        <item>o</item>
+        <item>kh</item>
+        <item>ó</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_102">
+        <item>a</item>
+        <item>m</item>
+        <item>ạ</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_103">
+        <item>e</item>
+        <item>m</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_104">
+        <item>e</item>
+        <item>m</item>
+        <item>è</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_105">
+        <item>ơ</item>
+        <item>n</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_106">
+        <item>o</item>
+        <item>n</item>
+        <item>ỏ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_107">
+        <item>ô</item>
+        <item>n</item>
+        <item>ổ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_108">
+        <item>a</item>
+        <item>ng</item>
+        <item>ã</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_109">
+        <item>e</item>
+        <item>ngh</item>
+        <item>é</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_110">
+        <item>ô</item>
+        <item>ng</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_111">
+        <item>ê</item>
+        <item>ngh</item>
+        <item>ệ</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_112">
+        <item>o</item>
+        <item>ng</item>
+        <item>õ</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_113">
+        <item>i</item>
+        <item>ngh</item>
+        <item>ĩ</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_114">
+        <item>o</item>
+        <item>b</item>
+        <item>ò</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_115">
+        <item>o</item>
+        <item>b</item>
+        <item>ọ</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_116">
+        <item>o</item>
+        <item>b</item>
+        <item>ò</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_117">
+        <item>o</item>
+        <item>c</item>
+        <item>ò</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_118">
+        <item>o</item>
+        <item>c</item>
+        <item>ọ</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_119">
+        <item>o</item>
+        <item>c</item>
+        <item>ỏ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_120">
+        <item>oi</item>
+        <item>v</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_121">
+        <item>ai</item>
+        <item>tr</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_122">
+        <item>oi</item>
+        <item>c</item>
+        <item>òi</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_123">
+        <item>ai</item>
+        <item>v</item>
+        <item>ải</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_124">
+        <item>oi</item>
+        <item>ng</item>
+        <item>ói</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_125">
+        <item>ai</item>
+        <item>c</item>
+        <item>ải</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_126">
+        <item>ô</item>
+        <item>c</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_127">
+        <item>ô</item>
+        <item>h</item>
+        <item>ổ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_128">
+        <item>ô</item>
+        <item>h</item>
+        <item>ồ</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_129">
+        <item>ơ</item>
+        <item>c</item>
+        <item>ờ</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_130">
+        <item>ơ</item>
+        <item>b</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_131">
+        <item>ơ</item>
+        <item>v</item>
+        <item>ở</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_132">
+        <item>ôi</item>
+        <item>th</item>
+        <item>ổi</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_133">
+        <item>ơi</item>
+        <item>b</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_134">
+        <item>ôi</item>
+        <item>ch</item>
+        <item>ổi</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_135">
+        <item>ơi</item>
+        <item>d</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_136">
+        <item>ôi</item>
+        <item>x</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_137">
+        <item>ơi</item>
+        <item>ch</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_138">
+        <item>ôn</item>
+        <item>ch</item>
+        <item>ồn</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_139">
+        <item>ơn</item>
+        <item>s</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_140">
+        <item>ôn</item>
+        <item>b</item>
+        <item>ố</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_141">
+        <item>ơn</item>
+        <item>l</item>
+        <item>ợn</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_142">
+        <item>ôn</item>
+        <item>tr</item>
+        <item>ộn</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_143">
+        <item>ơn</item>
+        <item>tr</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_144">
+        <item>ô</item>
+        <item>ph</item>
+        <item>ố</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_145">
+        <item>a</item>
+        <item>nh</item>
+        <item>à</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_146">
+        <item>ơ</item>
+        <item>ph</item>
+        <item>ở</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_147">
+        <item>o</item>
+        <item>nh</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_148">
+        <item>a</item>
+        <item>ph</item>
+        <item>à</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_149">
+        <item>ô</item>
+        <item>nh</item>
+        <item>ổ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_150">
+        <item>a</item>
+        <item>qu</item>
+        <item>á</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_151">
+        <item>a</item>
+        <item>gi</item>
+        <item>à</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_152">
+        <item>ê</item>
+        <item>qu</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_153">
+        <item>a</item>
+        <item>gi</item>
+        <item>ã</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_154">
+        <item>a</item>
+        <item>qu</item>
+        <item>à</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_155">
+        <item>o</item>
+        <item>gi</item>
+        <item>ỏ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_156">
+        <item>ư</item>
+        <item>s</item>
+        <item>ứ</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_157">
+        <item>ô</item>
+        <item>r</item>
+        <item>ổ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_158">
+        <item>o</item>
+        <item>s</item>
+        <item>ò</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_159">
+        <item>ê</item>
+        <item>r</item>
+        <item>ễ</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_160">
+        <item>e</item>
+        <item>s</item>
+        <item>ẻ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_161">
+        <item>a</item>
+        <item>r</item>
+        <item>ạ</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_162">
+        <item>ô</item>
+        <item>t</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_163">
+        <item>ô</item>
+        <item>t</item>
+        <item>ổ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_164">
+        <item>e</item>
+        <item>t</item>
+        <item>é</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_165">
+        <item>ơ</item>
+        <item>t</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_166">
+        <item>ơ</item>
+        <item>th</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_167">
+        <item>ơ</item>
+        <item>th</item>
+        <item>ợ</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_168">
+        <item>u</item>
+        <item>n</item>
+        <item>ụ</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_169">
+        <item>ư</item>
+        <item>th</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_170">
+        <item>u</item>
+        <item>t</item>
+        <item>ủ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_171">
+        <item>ư</item>
+        <item>n</item>
+        <item>ữ</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_172">
+        <item>u</item>
+        <item>th</item>
+        <item>ú</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_173">
+        <item>ư</item>
+        <item>th</item>
+        <item>ử</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_174">
+        <item>ua</item>
+        <item>b</item>
+        <item>úa</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_175">
+        <item>ưa</item>
+        <item>ng</item>
+        <item>ựa</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_176">
+        <item>ua</item>
+        <item>c</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_177">
+        <item>ưa</item>
+        <item>m</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_178">
+        <item>ua</item>
+        <item>m</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_179">
+        <item>ưa</item>
+        <item>d</item>
+        <item>ừa</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_180">
+        <item>ui</item>
+        <item>n</item>
+        <item>úi</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_181">
+        <item>ưi</item>
+        <item>ng</item>
+        <item>ửi</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_182">
+        <item>ui</item>
+        <item>c</item>
+        <item>ủi</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_183">
+        <item>ưi</item>
+        <item>g</item>
+        <item>ửi</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_184">
+        <item>ui</item>
+        <item>m</item>
+        <item>ũi</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_185">
+        <item>ui</item>
+        <item>t</item>
+        <item>úi</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_186">
+        <item>uôi</item>
+        <item>ch</item>
+        <item>uối</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_187">
+        <item>ươi</item>
+        <item>b</item>
+        <item>ưởi</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_188">
+        <item>uôi</item>
+        <item>m</item>
+        <item>uỗi</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_189">
+        <item>ươi</item>
+        <item>l</item>
+        <item>ưới</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_190">
+        <item>uôi</item>
+        <item>m</item>
+        <item>uối</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_191">
+        <item>ươi</item>
+        <item>c</item>
+        <item>ười</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_192">
+        <item>uôn</item>
+        <item>c</item>
+        <item>uộn</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_193">
+        <item>ươn</item>
+        <item>v</item>
+        <item>ườn</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_194">
+        <item>uôn</item>
+        <item>kh</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_195">
+        <item>ươn</item>
+        <item>l</item>
+        <item>ượn</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_196">
+        <item>uôn</item>
+        <item>m</item>
+        <item>uộn</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_197">
+        <item>ươn</item>
+        <item>tr</item>
+        <item>ườn</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_198">
+        <item>ưu</item>
+        <item>l</item>
+        <item>ựu</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="study_philology_join_199">
+        <item>ươu</item>
+        <item>h</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_200">
+        <item>ưu</item>
+        <item>c</item>
+        <item>ừu</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_philology_join_201">
+        <item>ưu</item>
+        <item>h</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_202">
+        <item>ưu</item>
+        <item>m</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_203">
+        <item>ươu</item>
+        <item>kh</item>
+        <item>ướu</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_204">
+        <item>e</item>
+        <item>x</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_205">
+        <item>o</item>
+        <item>ch</item>
+        <item>ó</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_206">
+        <item>u</item>
+        <item>x</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_207">
+        <item>a</item>
+        <item>ch</item>
+        <item>ả</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_208">
+        <item>e</item>
+        <item>x</item>
+        <item>ẻ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_209">
+        <item>i</item>
+        <item>ch</item>
+        <item>ỉ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_210">
+        <item>e</item>
+        <item>tr</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="study_philology_join_211">
+        <item>i</item>
+        <item>tr</item>
+        <item>í</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="study_philology_join_212">
+        <item>a</item>
+        <item>tr</item>
+        <item>ả</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_213">
+        <item>ê</item>
+        <item>tr</item>
+        <item>ễ</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_philology_join_214">
+        <item>e</item>
+        <item>tr</item>
+        <item>ẻ</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_philology_join_215">
+        <item>o</item>
+        <item>tr</item>
+        <item>ọ</item>
+        <item>5</item>
+    </string-array>
+
+</resources>

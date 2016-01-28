@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="study_math_true_false_00">
+        <item>5 + 3 - 7 = 1</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_01">
+        <item>10 - 8 + 2 = 3</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_true_false_02">
+        <item>0 + 7 - 3 = 4</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_03">
+        <item>7 - 5 + 5 = 6</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_true_false_04">
+        <item>8 - 4 + 2 = 6</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_05">
+        <item>3 + 7 - 0 = 9</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_true_false_06">
+        <item>7 - 7 + 2 &gt; 10</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_true_false_07">
+        <item>9 = 10 - 2 + 1</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_08">
+        <item>10 - 6 - 3 &lt; 3</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_09">
+        <item>5 > 9 + 1 - 7</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_10">
+        <item>7 + 3 - 6 = 4</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_11">
+        <item>10 &lt; 4 + 5 - 2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_true_false_12">
+        <item>2 &gt; 7 - 7</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_13">
+        <item>9 = 10 - 2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_true_false_14">
+        <item>10 - 6 - 3 &lt; 3</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_15">
+        <item>6 - 3 &lt; 3</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_true_false_16">
+        <item>7 = 4 + 3</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_17">
+        <item>10 = 7 + 1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_true_false_18">
+        <item>5 - 1 &lt; 6 - 7</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_true_false_19">
+        <item>5 - 0 &lt; 2 + 3</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_true_false_20">
+        <item>6 + 2 = 10 - 2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_21">
+        <item>4 - 2 = 9 - 7</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_22">
+        <item>7 - 4 &gt; 4 + 3</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_true_false_23">
+        <item>10 - 2 = 7 + 1</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_24">
+        <item>8 - 1 - 7 = 1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_true_false_25">
+        <item>5 - 0 + 2 = 3</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="study_math_true_false_26">
+        <item>6 + 3 - 3 = 6</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_27">
+        <item>4 - 2 + 3 = 5</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_28">
+        <item>7 - 4 + 5 = 8</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="study_math_true_false_29">
+        <item>5 + 3 - 2 = 7</item>
+        <item>0</item>
+    </string-array>
+
+</resources>

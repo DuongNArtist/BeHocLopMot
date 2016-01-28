@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bé Học Lớp Một</string>
+    <string name="ad_key">ca-app-pub-9404075236503358/9016630824</string>
+    <string name="study_philology">Tiếng Việt</string>
+    <string name="study_math">Toán</string>
+    <string name="study_knowledge">Thông Thái</string>
+    <string name="main_game">Ra chơi</string>
+    <string name="main_study">Vào lớp</string>
+    <string name="game_poke">Poke</string>
+    <string name="game_rado">Rado</string>
+    <string name="game_over">Game Over</string>
+    <string name="game_loading">Loading</string>
+    <string name="philology_speak">Đánh vần</string>
+    <string name="philology_join">Ghép vần</string>
+    <string name="philology_join_pass">Chúc mừng bé đã hoàn thành bài học</string>
+    <string name="philology_catch">Bắt chữ</string>
+    <string name="math_add_sub_10">Cộng trừ đến 10</string>
+    <string name="math_add_sub_100">Cộng trừ đến 100</string>
+    <string name="math_compare">So sánh</string>
+    <string name="math_true_false">Đúng - Sai</string>
+    <string name="math_calculate">Tính toán</string>
+    <string name="math_even_odd">Chẵn - Lẻ</string>
+    <string name="math_guess">Dự đoán số</string>
+    <string name="math_constitute">Cấu tạo số</string>
+    <string name="math_true">Đúng</string>
+    <string name="math_false">Sai</string>
+    <string name="example">a</string>
+    <string name="knowledge_message">Điểm: </string>
+
+    <string-array name="knowledge_message_0">
+        <item>Loại: Yếu</item>
+        <item>Bé cần cố gắng thêm!</item>
+    </string-array>
+    <string-array name="knowledge_message_1">
+        <item>Loại: Trung Bình</item>
+        <item>Bé cần cố gắng thêm!</item>
+    </string-array>
+    <string-array name="knowledge_message_2">
+        <item>Loại: Khá</item>
+        <item>Bé khá lắm! Cần cố gắng thêm nữa!</item>
+    </string-array>
+    <string-array name="knowledge_message_3">
+        <item>Loại: Giỏi</item>
+        <item>Hoan hô bé giỏi quá!</item>
+    </string-array>
+    <string-array name="knowledge_message_4">
+        <item>Loại: Xuất Sắc</item>
+        <item>Hoan hô bé thật là tuyệt vời!</item>
+    </string-array>
+
+</resources>

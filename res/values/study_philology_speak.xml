@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="study_philology_speak_lesson">
+        <item>a - i</item>
+        <item>an - on</item>
+        <item>au - âu</item>
+        <item>ay - ây</item>
+        <item>ân - ăn</item>
+        <item>d - đ</item>
+        <item>en - ên</item>
+        <item>eo - ao</item>
+        <item>g - gh</item>
+        <item>ia</item>
+        <item>iên - yên</item>
+        <item>iêu - yêu</item>
+        <item>in - un</item>
+        <item>iu - êu</item>
+        <item>k - kh</item>
+        <item>m - n</item>
+        <item>ng - ngh</item>
+        <item>o - c</item>
+        <item>oi - ai</item>
+        <item>ô - ơ</item>
+        <item>ôi - ơi</item>
+        <item>ôn - ơn</item>
+        <item>ph - nh</item>
+        <item>qu - gi</item>
+        <item>s - r</item>
+        <item>t - th</item>
+        <item>u - ư</item>
+        <item>ua - ưa</item>
+        <item>ui - ưi</item>
+        <item>uôi - ươi</item>
+        <item>uôn - ươn</item>
+        <item>ưu - ươu</item>
+        <item>x - ch</item>
+        <item>y - tr</item>
+    </string-array>
+    <string-array name="study_philology_speak_00">
+        <item>va li</item>
+        <item>lá cờ</item>
+        <item>ba lô</item>
+        <item>vở ô li</item>
+    </string-array>
+    <string-array name="study_philology_speak_01">
+        <item>nhà sàn</item>
+        <item>lon sữa</item>
+        <item>mẹ con</item>
+        <item>hoa lan</item>
+        <item>thợ hàn</item>
+        <item>hòn đá</item>
+        <item>Gấu mẹ dạy con chơi đàn. Thỏ mẹ dạy con nhảy múa.</item>
+    </string-array>
+    <string-array name="study_philology_speak_02">
+        <item>cây cau</item>
+        <item>lau nhà</item>
+        <item>rau cải</item>
+        <item>sáo sậu</item>
+        <item>trái bầu</item>
+        <item>cây cầu</item>
+        <item>Chào mào có áo màu nâu. Cứ mùa ổi tới từ đâu bay về.</item>
+    </string-array>
+    <string-array name="study_philology_speak_03">
+        <item>tờ giấy</item>
+        <item>xe máy</item>
+        <item>thứ bảy</item>
+        <item>cấy lúa</item>
+        <item>ngày hội</item>
+        <item>nhảy dây</item>
+        <item>Giờ ra chơi bé trai thi chạy. Bé gái thi nhảy dây.</item>
+    </string-array>
+    <string-array name="study_philology_speak_04">
+        <item>thằn lằn</item>
+        <item>múa lân</item>
+        <item>che chắn</item>
+        <item>bàn chân</item>
+        <item>thợ lặn</item>
+        <item>trái mận</item>
+        <item>Bé chơi thân với bạn Lê. Bố bạn Lê là thợ lặn.</item>
+    </string-array>
+    <string-array name="study_philology_speak_05">
+        <item>da cá</item>
+        <item>lá đa</item>
+        <item>bờ đê</item>
+        <item>Dì na đi đò, mẹ đi bộ.</item>
+    </string-array>
+    <string-array name="study_philology_speak_06">
+        <item>rau dền</item>
+        <item>lá sen</item>
+        <item>con nhện</item>
+        <item>khen ngợi</item>
+        <item>bên phải</item>
+        <item>thói quen</item>
+        <item>Nhà dế mèn ở gần bãi cỏ non. Còn nhà sên thì ở ngay trên tàu lá chuối.</item>
+    </string-array>
+    <string-array name="study_philology_speak_07">
+        <item>chào cờ</item>
+        <item>leo trèo</item>
+        <item>hải đảo</item>
+        <item>ngôi sao</item>
+        <item>cái kéo</item>
+        <item>thổi sáo</item>
+        <item>Suối chảy rì rào. Gió reo lao xao. Bé ngồi thổi sáo.</item>
+    </string-array>
+    <string-array name="study_philology_speak_08">
+        <item>ghế gỗ</item>
+        <item>nhà ga</item>
+        <item>gồ ghề</item>
+        <item>ghi nhớ</item>
+        <item>gõ mõ</item>
+        <item>ghế đá</item>
+        <item>Nhà bà có ghế đá, tủ gỗ.</item>
+    </string-array>
+    <string-array name="study_philology_speak_09">
+        <item>lá mía</item>
+        <item>tỉa lá</item>
+        <item>chia quà</item>
+        <item>vỉa hè</item>
+        <item>tờ bìa</item>
+        <item>bia đá</item>
+        <item>Bé Hà nhổ cỏ, chị Kha tỉa lá.</item>
+    </string-array>
+    <string-array name="study_philology_speak_10">
+        <item>từ điển</item>
+        <item>chim yến</item>
+        <item>đèn điện</item>
+        <item>yên xe</item>
+        <item>viên bi</item>
+        <item>cá biển</item>
+        <item>Sau cơn bão, kiến đen lại xây nhà. Cả đàn kiến kiên nhẫn chở lá khô về tổ mới.</item>
+    </string-array>
+    <string-array name="study_philology_speak_11">
+        <item>buổi chiều</item>
+        <item>củ kiệu</item>
+        <item>yêu quý</item>
+        <item>thả diều</item>
+        <item>già yếu</item>
+        <item>vải thiều</item>
+        <item>Tu hú kêu, báo hiệu mùa vải thiều đã về.</item>
+    </string-array>
+    <string-array name="study_philology_speak_12">
+        <item>mưa phùn</item>
+        <item>xin lỗi</item>
+        <item>vun xới</item>
+        <item>số chín</item>
+        <item>con giun</item>
+        <item>nhà in</item>
+        <item>Ủn à ủn ỉn. Chín chú lợn con. Ăn đã no tròn. Cả đàn đi ngủ.</item>
+    </string-array>
+    <string-array name="study_philology_speak_13">
+        <item>trĩu quả</item>
+        <item>cái phễu</item>
+        <item>níu kéo</item>
+        <item>rổ nghêu</item>
+        <item>lưỡi rìu</item>
+        <item>cây nêu</item>
+        <item>Cây bưởi, cây táo nhà bà đều sai trĩu quả.</item>
+    </string-array>
+    <string-array name="study_philology_speak_14">
+        <item>cá kho</item>
+        <item>khe đá</item>
+        <item>lá khô</item>
+        <item>sa kê</item>
+        <item>rổ khế</item>
+        <item>kẻ ô</item>
+        <item>Chị Kha kẻ vở cho bé Hà.</item>
+    </string-array>
+    <string-array name="study_philology_speak_15">
+        <item>bó mạ</item>
+        <item>ca nô</item>
+        <item>Ba bé Hà có ca nô.</item>
+    </string-array>
+    <string-array name="study_philology_speak_16">
+        <item>bò nghé</item>
+        <item>nghỉ hè</item>
+        <item>ngã tư</item>
+        <item>củ nghệ</item>
+        <item>nghệ sĩ</item>
+        <item>cá ngừ</item>
+        <item>nghỉ hè, bé về quê bà thả cá.</item>
+    </string-array>
+    <string-array name="study_philology_speak_17">
+        <item>lò cò</item>
+        <item>bó cỏ</item>
+        <item>bò có bó cỏ</item>
+    </string-array>
+    <string-array name="study_philology_speak_18">
+        <item>bé trai</item>
+        <item>ngà voi</item>
+        <item>củ cải</item>
+        <item>trái vải</item>
+        <item>nhà ngói</item>
+        <item>cá mòi</item>
+        <item>Chú voi đu đưa cái vòi.</item>
+    </string-array>
+    <string-array name="study_philology_speak_19">
+        <item>bờ hồ</item>
+        <item>vò vẽ</item>
+        <item>Bé vẽ cờ.</item>
+    </string-array>
+    <string-array name="study_philology_speak_20">
+        <item>lễ hội</item>
+        <item>cái chổi</item>
+        <item>ngói mới</item>
+        <item>đồ chơi</item>
+        <item>gió thổi</item>
+        <item>bơi lội</item>
+        <item>Bé trai, bé gái đi chơi lễ hội với bố mẹ.</item>
+    </string-array>
+    <string-array name="study_philology_speak_21">
+        <item>cơn mưa</item>
+        <item>con chồn</item>
+        <item>cao lớn</item>
+        <item>bận rộn</item>
+        <item>mơn mởn</item>
+        <item>trí khôn</item>
+        <item>Sau cơn mưa, cả nhà cá bơi đi bơi lại bận rộn.</item>
+    </string-array>
+    <string-array name="study_philology_speak_22">
+        <item>nha sĩ</item>
+        <item>nhổ cỏ</item>
+        <item>nhà lá</item>
+        <item>phố xá</item>
+        <item>phở bò</item>
+        <item>phi cơ</item>
+        <item>Nhà dì Na ở phố. Nhà dì có chó xù.</item>
+    </string-array>
+    <string-array name="study_philology_speak_23">
+        <item>cụ già</item>
+        <item>chợ quê</item>
+        <item>quả thị</item>
+        <item>chả giò</item>
+        <item>qua đò</item>
+        <item>giỏ cá</item>
+        <item>Chú Tư ghé qua nhà cho bé giỏ cá.</item>
+    </string-array>
+    <string-array name="study_philology_speak_24">
+        <item>chữ số</item>
+        <item>rễ mạ</item>
+        <item>ca rô</item>
+        <item>rổ sò</item>
+        <item>se sẻ</item>
+        <item>cá rô</item>
+        <item>Dì Tư chở rổ sò ra chợ.</item>
+    </string-array>
+    <string-array name="study_philology_speak_25">
+        <item>ti vi</item>
+        <item>tổ cò</item>
+        <item>thợ hồ</item>
+        <item>Ba Tí là thợ mỏ</item>
+    </string-array>
+    <string-array name="study_philology_speak_26">
+        <item>cử tạ</item>
+        <item>lá thư</item>
+        <item>cá thu</item>
+        <item>đu đủ</item>
+        <item>củ từ</item>
+        <item>cú vọ</item>
+        <item>Thứ tư bé Thu thi võ.</item>
+    </string-array>
+    <string-array name="study_philology_speak_27">
+        <item>đua ngựa</item>
+        <item>múa võ</item>
+        <item>dừa khô</item>
+        <item>cửa sổ</item>
+        <item>sữa chua</item>
+        <item>trưa hè</item>
+        <item>Mẹ đi chợ mua mía, mua dừa cho bé.</item>
+    </string-array>
+    <string-array name="study_philology_speak_28">
+        <item>cái túi</item>
+        <item>gửi thư</item>
+        <item>đồi núi</item>
+        <item>bó củi</item>
+        <item>vui chơi</item>
+        <item>lỗ mũi</item>
+        <item>Dì Na vừa gửi thư về, cả nhà vui quá.</item>
+    </string-array>
+    <string-array name="study_philology_speak_29">
+        <item>chú cuội</item>
+        <item>lò sưởi</item>
+        <item>cá đuối</item>
+        <item>nụ cười</item>
+        <item>nải chuối</item>
+        <item>múi bưởi</item>
+        <item>Buổi tối,chị Kha rủ bé Hà chơi đố chữ.</item>
+    </string-array>
+    <string-array name="study_philology_speak_30">
+        <item>cuộn dây</item>
+        <item>con lươn</item>
+        <item>sườn đồi</item>
+        <item>chuồn chuồn</item>
+        <item>buôn bán</item>
+        <item>tàu lượn</item>
+        <item>Mùa thu, bầu trời như cao hơn. Trên giàn thiên lí, lũ chuồn chuồn ngẩn ngơ bay lượn.</item>
+    </string-array>
+    <string-array name="study_philology_speak_31">
+        <item>con cừu</item>
+        <item>trái lựu</item>
+        <item>mưu trí</item>
+        <item>con khướu</item>
+        <item>hươu cao cổ</item>
+        <item>nghỉ hưu</item>
+        <item>Buổi trưa, cừu chạy theo mẹ ra bờ suối. Nó thấy bầy hươu, nai đã ở đấy rồi.</item>
+    </string-array>
+    <string-array name="study_philology_speak_32">
+        <item>chả cá</item>
+        <item>lò xo</item>
+        <item>xe bò</item>
+        <item>thị xã</item>
+        <item>chó xù</item>
+        <item>xe thồ</item>
+        <item>Xe ô tô chở cá về thị xã.</item>
+    </string-array>
+    <string-array name="study_philology_speak_33">
+        <item>tre ngà</item>
+        <item>cá trê</item>
+        <item>trí nhớ</item>
+        <item>nhà trọ</item>
+        <item>vũ trụ</item>
+        <item>nhà trẻ</item>
+        <item>Bé bị ho, mẹ cho bé ra y tế xã.</item>
+    </string-array>
+
+</resources>

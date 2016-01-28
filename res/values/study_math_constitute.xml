@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="study_math_constitute_00">
+        <item>Số nào gồm 9 chục và 0 đơn vị?</item>
+        <item>9</item>
+        <item>90</item>
+        <item>22</item>
+        <item>34</item>
+        <item>90</item>
+    </string-array>
+    <string-array name="study_math_constitute_01">
+        <item>Số nào gồm 2 chục và 8 đơn vị?</item>
+        <item>28</item>
+        <item>82</item>
+        <item>22</item>
+        <item>88</item>
+        <item>28</item>
+    </string-array>
+    <string-array name="study_math_constitute_02">
+        <item>Số nào gồm 1 chục và 9 đơn vị?</item>
+        <item>19</item>
+        <item>90</item>
+        <item>91</item>
+        <item>51</item>
+        <item>19</item>
+    </string-array>
+    <string-array name="study_math_constitute_03">
+        <item>Số nào gồm 0 chục và 3 đơn vị?</item>
+        <item>76</item>
+        <item>97</item>
+        <item>3</item>
+        <item>43</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="study_math_constitute_04">
+        <item>Số 76 gồm mấy chục và mấy đơn vị?</item>
+        <item>7 chục và 1 đơn vị</item>
+        <item>7 chục và 6 đơn vị</item>
+        <item>1 chục và 7 đơn vị</item>
+        <item>7 chục và 7 đơn vị</item>
+        <item>7 chục và 6 đơn vị</item>
+    </string-array>
+    <string-array name="study_math_constitute_05">
+        <item>Số 45 gồm mấy chục và mấy đơn vị?</item>
+        <item>4 chục và 0 đơn vị</item>
+        <item>4 chục và 4 đơn vị</item>
+        <item>5 chục và 4 đơn vị</item>
+        <item>4 chục và 5 đơn vị</item>
+        <item>4 chục và 5 đơn vị</item>
+    </string-array>
+    <string-array name="study_math_constitute_06">
+        <item>Số 18 gồm mấy chục và mấy đơn vị?</item>
+        <item>1 chục và 7 đơn vị</item>
+        <item>8 chục và 1 đơn vị</item>
+        <item>1 chục và 8 đơn vị</item>
+        <item>1 chục và 6 đơn vị</item>
+        <item>1 chục và 8 đơn vị</item>
+    </string-array>
+    <string-array name="study_math_constitute_07">
+        <item>Số 92 gồm mấy chục và mấy đơn vị?</item>
+        <item>9 chục và 0 đơn vị</item>
+        <item>2 chục và 9 đơn vị</item>
+        <item>9 chục và 2 đơn vị</item>
+        <item>2 chục và 2 đơn vị</item>
+        <item>9 chục và 2 đơn vị</item>
+    </string-array>
+    <string-array name="study_math_constitute_08">
+        <item>Số nào gồm 8 chục và 0 đơn vị?</item>
+        <item>8</item>
+        <item>80</item>
+        <item>11</item>
+        <item>35</item>
+        <item>80</item>
+    </string-array>
+    <string-array name="study_math_constitute_09">
+        <item>Số nào gồm 2 chục và 7 đơn vị?</item>
+        <item>27</item>
+        <item>87</item>
+        <item>72</item>
+        <item>77</item>
+        <item>27</item>
+    </string-array>
+    <string-array name="study_math_constitute_10">
+        <item>Số nào gồm 1 chục và 7 đơn vị?</item>
+        <item>17</item>
+        <item>70</item>
+        <item>71</item>
+        <item>57</item>
+        <item>17</item>
+    </string-array>
+    <string-array name="study_math_constitute_11">
+        <item>Số nào gồm 0 chục và 4 đơn vị?</item>
+        <item>46</item>
+        <item>94</item>
+        <item>4</item>
+        <item>43</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="study_math_constitute_12">
+        <item>Số 75 gồm mấy chục và mấy đơn vị?</item>
+        <item>7 chục và 1 đơn vị</item>
+        <item>7 chục và 6 đơn vị</item>
+        <item>1 chục và 4 đơn vị</item>
+        <item>7 chục và 5 đơn vị</item>
+        <item>7 chục và 5 đơn vị</item>
+    </string-array>
+    <string-array name="study_math_constitute_13">
+        <item>Số 44 gồm mấy chục và mấy đơn vị?</item>
+        <item>4 chục và 0 đơn vị</item>
+        <item>4 chục và 4 đơn vị</item>
+        <item>5 chục và 4 đơn vị</item>
+        <item>4 chục và 5 đơn vị</item>
+        <item>4 chục và 4 đơn vị</item>
+    </string-array>
+    <string-array name="study_math_constitute_14">
+        <item>Số 17 gồm mấy chục và mấy đơn vị?</item>
+        <item>1 chục và 7 đơn vị</item>
+        <item>8 chục và 1 đơn vị</item>
+        <item>1 chục và 8 đơn vị</item>
+        <item>1 chục và 6 đơn vị</item>
+        <item>1 chục và 7 đơn vị</item>
+    </string-array>
+    <string-array name="study_math_constitute_15">
+        <item>Số 91 gồm mấy chục và mấy đơn vị?</item>
+        <item>9 chục và 0 đơn vị</item>
+        <item>1 chục và 9 đơn vị</item>
+        <item>9 chục và 1 đơn vị</item>
+        <item>2 chục và 2 đơn vị</item>
+        <item>9 chục và 1 đơn vị</item>
+    </string-array>
+    <string-array name="study_math_constitute_16">
+        <item>Số 37 gồm mấy chục và mấy đơn vị?</item>
+        <item>1 chục và 7 đơn vị</item>
+        <item>8 chục và 1 đơn vị</item>
+        <item>3 chục và 7 đơn vị</item>
+        <item>7 chục và 1 đơn vị</item>
+        <item>3 chục và 7 đơn vị</item>
+    </string-array>
+    <string-array name="study_math_constitute_17">
+        <item>Số 99 gồm mấy chục và mấy đơn vị?</item>
+        <item>9 chục và 0 đơn vị</item>
+        <item>1 chục và 9 đơn vị</item>
+        <item>9 chục và 9 đơn vị</item>
+        <item>6 chục và 6 đơn vị</item>
+        <item>9 chục và 9 đơn vị</item>
+    </string-array>
+    <string-array name="study_math_constitute_18">
+        <item>Số 88 gồm mấy chục và mấy đơn vị?</item>
+        <item>8 chục và 0 đơn vị</item>
+        <item>8 chục và 8 đơn vị</item>
+        <item>9 chục và 9 đơn vị</item>
+        <item>5 chục và 6 đơn vị</item>
+        <item>8 chục và 8 đơn vị</item>
+    </string-array>
+    <string-array name="study_math_constitute_19">
+        <item>Số 88 gồm mấy chục và mấy đơn vị?</item>
+        <item>8 chục và 0 đơn vị</item>
+        <item>8 chục và 8 đơn vị</item>
+        <item>9 chục và 9 đơn vị</item>
+        <item>5 chục và 6 đơn vị</item>
+        <item>8 chục và 8 đơn vị</item>
+    </string-array>
+
+</resources>
